@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(218,43,37);
+}
+
+.form{
+    background-color: white;
+    margin: 3% auto;
+    max-width: 600px;
+    padding: 3%;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 10px 15px 7px rgba(0, 0, 0, 0.34);
+}
+
+#signup{
+    display: block;
+}
+
+#login{
+    display: none;
+}
